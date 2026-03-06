@@ -33,8 +33,8 @@ The best AI products aren't built by PMs who treat AI as a black box. They're bu
 
 📫 Let's Connect
 
-💼 [LinkedIn]([url](https://www.linkedin.com/in/james-a-manganiello/))
-🌐 [staqgtm.com]([url](https://staqgtm.com/))
+💼 [LinkedIn]((https://www.linkedin.com/in/james-a-manganiello/))
+🌐 [staqgtm.com]((https://staqgtm.com/))
 📧 jamesamanganiello@gmail.com
 
 <!--
