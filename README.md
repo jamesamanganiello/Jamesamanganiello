@@ -32,6 +32,6 @@ I built [Staq GTM](https://staqgtm.com) — a diagnostic platform that analyzes 
 
 ## Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/jamesamanganiello)
+- [LinkedIn](https://www.linkedin.com/in/james-a-manganiello/)
 - [Staq GTM](https://staqgtm.com)
 - jamesamanganiello@gmail.com
