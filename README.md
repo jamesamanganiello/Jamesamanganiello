@@ -1,53 +1,37 @@
-## Hey, I'm James 👋
-I'm an AI Product Manager who builds things. Some for automating the busy work, some just for fun. 
-I believe in prototypes > PRDs and building fast while having fun
+# Hi, I'm James 👋
 
-This GitHub is where I share what I'm building: AI agents that sometimes solve real problems, a SaaS product I'm growing, and the code behind it all.
+I build AI agents and GTM tools that solve real workflow problems.
 
-🚀 What I'm Working On
+Most of my work is hands-on: designing AI agents through prompt engineering, shipping a SaaS product for revenue teams, and documenting the product thinking behind every build. I use Claude Code, Replit, and Notion AI to go from idea to working prototype fast.
 
-Staq GTM — A diagnostic platform I built that analyzes how revenue teams actually use their GTM tech stack. It connects to your CRM and sales tools, scores adoption across reps, and shows exactly which tools drive revenue vs. collect dust. Think of it as a health check for your sales tech stack.
+I built [Staq GTM](https://staqgtm.com) — a diagnostic platform that analyzes how revenue teams actually use their tech stack, scores rep adoption across tools, and shows which tools drive revenue vs. collect dust.
 
-AI Agents — I design and build AI-powered agents that drive productivity for real workflows. Not toy demos — tools people actually use:
-AgentWhat It DoesBuilt With🧠 Notion AI Meeting OrganizerAutomates meeting note capture, action item extraction, and follow-up trackingNotion AI, Claude🎯 AI Interview CoachPrepares candidates with role-specific practice questions, feedback, and frameworksClaude Code, Replit🔍 Internal Database Query AgentNatural language interface for querying internal databases without writing SQLClaude Code
+### What I Work On
 
-🛠️ How I Build
-I'm a PM who codes — not a full-stack engineer, but someone who can go from idea to working prototype. My toolkit:
+- **AI Agents**: productivity agents, meeting automation, interview prep, natural language database queries
+- **Staq GTM**: SaaS platform for GTM tech stack diagnostics — connects to CRM and sales tools, benchmarks rep adoption, surfaces ROI
+- **Prompt Engineering**: designing agent workflows, prompt chains, and evaluation strategies using Claude and Claude Code
+- **GTM Strategy**: bridging the gap between product, sales tooling, and revenue operations
 
-AI/LLM: Claude, Claude Code, Notion AI, Gemini, Minimax, Codex, OpenClaw
-Prototyping: Replit, Python, JavaScript
-Product: Notion, Figma, analytics platforms
-GTM Tech: Salesforce, Gong, Salesloft, ZoomInfo (the stack Staq monitors)
+### AI Agents I've Built
 
-I use AI tools (especially Claude Code) as a force multiplier — which I think is exactly the skill set AI PMs need in 2026.
+- **Notion AI Meeting Organizer** — automates meeting note capture, action item extraction, and follow-up tracking across Notion workspaces
+- **AI Interview Coach** — prepares candidates with role-specific practice questions, real-time feedback, and structured frameworks
+- **Internal Database Query Agent** — natural language interface that lets non-technical users query internal databases without writing SQL
+- **Calendar Planning Agent** — nightly automation that pulls tasks from Notion, blocks Google Calendar with smart time slots (deep work vs. tactical), and sends a daily briefing email
 
-📌 Pinned Repos
-👇 Check out my pinned repositories below for:
+## About Me
 
-staqgtm-site — The codebase behind staqgtm.com
-ai-agents — Collection of AI agents I've built, with documentation on the prompting strategies, architecture decisions, and tradeoffs behind each one
+- **AI Product Manager** focused on building at the intersection of AI, product strategy, and go-to-market.
 
+- Built **[Staq GTM](https://staqgtm.com)** from scratch — a SaaS diagnostic platform serving revenue teams. Handles the full stack: product strategy, development, and GTM.
 
-💡 My PM Philosophy
-The best AI products aren't built by PMs who treat AI as a black box. They're built by PMs who get their hands dirty — who understand what a prompt chain looks like, why RAG sometimes fails, and when to use an agent vs. a simple API call. That's how I work.
+- I believe the best AI PMs don't just write specs — they ship. I use AI tools as a force multiplier to prototype, test, and iterate faster than traditional product cycles allow.
 
-📫 Let's Connect
+🌱 Always building new agents and exploring what's possible at the intersection of AI and product. Open to connecting with other builders, AI PMs, and anyone working on agentic workflows.
 
-💼 [LinkedIn]((https://www.linkedin.com/in/james-a-manganiello/))
-🌐 [staqgtm.com]((https://staqgtm.com/))
-📧 jamesamanganiello@gmail.com
+## Let's Connect
 
-<!--
-**jamesamanganiello/Jamesamanganiello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://linkedin.com/in/jamesamanganiello)
+- [Staq GTM](https://staqgtm.com)
+- jamesamanganiello@gmail.com
