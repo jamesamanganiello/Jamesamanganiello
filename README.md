@@ -20,6 +20,8 @@ I built [Staq GTM](https://staqgtm.com) — a diagnostic platform that analyzes 
 - **Internal Database Query Agent** — natural language interface that lets non-technical users query internal databases without writing SQL
 - **Calendar Planning Agent** — nightly automation that pulls tasks from Notion, blocks Google Calendar with smart time slots (deep work vs. tactical), and sends a daily briefing email
 
+- <img width="1245" height="733" alt="IMG_3291" src="https://github.com/user-attachments/assets/0278e3e6-46c9-4fa2-b659-ad954ecbb3c2" />
+
 ## About Me
 
 - **AI Product Manager** focused on building at the intersection of AI, product strategy, and go-to-market.
